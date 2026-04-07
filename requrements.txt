@@ -1,0 +1,10 @@
+google-generativeai
+speechrecognition
+pillow
+opencv-python
+gTTS
+pygame
+requests
+pywhatkit
+selenium
+webdriver-manager
